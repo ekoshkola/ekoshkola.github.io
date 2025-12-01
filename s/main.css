@@ -43,9 +43,11 @@ a {
 }
 .menu a:hover {
 	text-decoration: underline;
+	text-decoration-skip-ink: none;
 }
 a:link, a:visited, a:active {
 	text-decoration: underline;
+	text-decoration-skip-ink: none;
 }
 a:hover {
 	text-decoration: none;
